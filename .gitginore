@@ -1,0 +1,47 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# PyTorch / Models
+*.pt
+*.pth
+*.pkl
+!models_saved/.gitkeep
+
+# Data (jika ingin ignore, tapi kita ingin track CSV)
+# data/raw/
+# *.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+
+# Output temporary
+temp/
+tmp/
