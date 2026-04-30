@@ -1,0 +1,34 @@
+# Core Data
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Image Processing
+scikit-image
+opencv-python
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+torch
+torchvision
+
+# NLP
+nltk
+tensorflow
+keras
+
+# Utilities
+tqdm
+joblib
+pyyaml
+
+# Jupyter
+ipykernel
+jupyter
+notebook
